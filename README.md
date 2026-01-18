@@ -1,4 +1,10 @@
-## Hi there 👋
+## Привет, меня зовут Полина ! 👋👋
+**Я - студентка Президентской Академии, любитель в сфере IT**
+✍️ Основные направления - Python, математика
+🖋️ В данный момент изучаю: инструменты для использования и расширения своих навыков программирования.
+📧 Мой email - yankova-polina@bk.ru
+
+
 
 <!--
 **pyankova-25/pyankova-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
